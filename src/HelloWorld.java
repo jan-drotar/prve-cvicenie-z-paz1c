@@ -8,7 +8,7 @@ public class HelloWorld {
 			System.out.println("GITTTTT");
 			System.out.println("OU YEAH");
 		}
-
+		// cau, to som ja, Lucka
 	}
 
 }
