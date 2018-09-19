@@ -9,6 +9,7 @@ public class HelloWorld {
 			System.out.println("OU YEAH");
 		}
 		// cau, to som ja, Lucka
+		// cau, aj Jakub je tu
 	}
 
 }
