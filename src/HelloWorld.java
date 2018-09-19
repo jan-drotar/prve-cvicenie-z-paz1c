@@ -10,6 +10,8 @@ public class HelloWorld {
 		}
 		// cau, to som ja, Lucka
 		// cau, aj Jakub je tu
+		
+		System.out.println("Merge with my version");
 	}
 
 }
